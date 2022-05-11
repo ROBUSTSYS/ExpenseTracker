@@ -1,0 +1,18 @@
+.expense-item_date{
+  background-color: rgb(61, 60, 60);  
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+.month{
+font-size: 20px;
+}
+.year{
+font-size: 20px;
+}
+.day{
+    font-size: 35px;
+}
